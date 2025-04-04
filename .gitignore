@@ -1,61 +1,8 @@
-# Ignore virtual environment
+<<<<<<< HEAD
+# your local changes
 env/
-venv/
-
-# Ignore Python cache and database
-__pycache__/
 *.pyc
-*.pyo
-*.sqlite3
-
-# Ignore environment variable files
-.env
-# Ignore virtual environment
-env/
-venv/
-
-# Ignore Python cache and database
-__pycache__/
-*.pyc
-*.pyo
-*.sqlite3
-
-# Ignore environment variable files
-.env
-
-# Ignore IDE and editor files
-.vscode/
-.idea/
-*.iml
-*.ipr
-*.iws
-
-# Ignore operating system files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Ignore package files
-*.egg-info/
-*.dist-info/
-*.whl
-*.tar.gz
-*.zip
-
-# Ignore documentation files
-docs/
-*.md
-*.rst
-*.txt
-
-# Ignore test files
-tests/
-*.test
-*.spec
-*.fixture
-
-# Ignore log files
-*.log
-*.err
-*.out
+=======
+# remote GitHub version
+*.idea/
+>>>>>>> 3358f63...
